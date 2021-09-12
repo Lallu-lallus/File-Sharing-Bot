@@ -19,3 +19,4 @@ async def users_info(bot):
         else:
             blocked += 1
     return users, blocked
+auto file sharing bot in 
